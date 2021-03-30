@@ -1,0 +1,58 @@
+/* 
+
+The one style sheet for Quotations 1
+
+Authors: Rick Mercer and Matthew Gleason
+
+*/
+.registerContainer {
+	width: 200px;
+	height: 120px;
+	vertical-align: text-top;
+	border: 2px black solid;
+	border-radius: 7px;
+	padding: 10px;
+	margin: 10px;
+}
+.container {
+	width: auto;
+	border: 2px black solid;
+	border-radius: 7px;
+	margin: 5px;
+	padding: 5px;
+}
+
+.author { 
+	margin: 10px;
+}
+
+h1 {
+	font-style: italic;
+	text-align: center;
+}
+
+.buttonLayout {
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.quoteContainer {
+	float: left;
+	width: 600px;
+	height: 225px;
+	border: 2px black solid;
+	border-radius: 7px;
+	margin-left: 15px;
+	padding: 10px;
+}
+
+.textQuote {
+	width: 595px;
+	height: 150px;
+}
+
+.subButton {
+	float: left;
+	
+}
