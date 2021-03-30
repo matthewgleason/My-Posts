@@ -6,7 +6,7 @@
 // a new database named quotes and add the two tables (design done for you).
 // The function startByScratch() is only used for testing code at the bottom.
 // 
-// Authors: Matthew Gleason
+// Authors: Rick Mercer and Matthew Gleason
 //
 class DatabaseAdaptor {
   private $DB; // The instance variable used in every method below
